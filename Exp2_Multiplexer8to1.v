@@ -1,4 +1,4 @@
-module Mux 8 1 (s0,s1,s2, i,y); 
+module Mux_8_1 (s0,s1,s2, i,y); 
 input [7:0]i; 
 input 50, s1,s2; 
 output y; 
