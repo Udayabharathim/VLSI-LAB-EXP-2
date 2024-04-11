@@ -13,7 +13,7 @@ STEP:5 Select the Behavioural Simulation in the Source Window and click the chec
  STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
           
 ##  ENCODER 8:3:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/b2a9d191-621c-463e-82ea-fb5a3574d2d3)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/9545fd02-934d-4d04-8e15-7f4b703cc91a)
 
 ## PROGRAM:
 
@@ -27,13 +27,15 @@ endmodule
 ## OUTPUT:               
                    
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/649444ee-f1e0-4025-9abc-c4a2dc9f92ae)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/aa76db81-e951-434e-a613-62aa608d6f4f)
+
 
 
 
   ## DECODER3:8:
   
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/6e8805a0-7f9f-412f-89a4-acf1f0830a99)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/bbd40d54-e59a-4b83-a17b-b2bb381e8018)
+
 
 
 ## PROGRAM:
@@ -51,10 +53,14 @@ assign y[7]=s[2]&s[1]&s[0];<br>
 endmodule
 
 ## OUTPUT:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/e4cc688a-0dc7-4727-8662-086b385044a8)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/2c430127-9fa0-4dbb-aeeb-1930978a8754)
+
 
 ##  MULTIPLEXER 8:1:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/3381082d-222c-4f82-bdd1-875c28ab9d34)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/81e886bb-97d6-4a51-aa2f-d7e6429f6525)
+
 
 ## PROGRAM: 
 module Mux 8 1 (s0,s1,s2, i,y);<br>
@@ -74,16 +80,13 @@ assign y=w[0][w[1] w[2] w[3] w[4] w[5] w[6] w[7];<br>
 endmodule
 
 ## OUTPUT:
-
-
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/b27953b7-6cc5-49a4-ba9d-5b04be05b76a)
-
-
-                       
+                    
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/bb7f4511-0128-414b-9dba-b54a8fedb5ae)
  
 
 ## DEMULTIPLEXER 1:8:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/10916f35-34da-44d1-8274-ed49939c82a1)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/ae62dd34-ad89-4413-9c09-5a86b5c1237b)
 
 
 ## PROGRAM:
@@ -100,10 +103,13 @@ endmodule
 
 ## OUTPUT:
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/cad31d51-097a-4d5a-b01f-78438d463d94)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/d6b8fb93-d57c-4592-aff2-99b387590e9d)
+
 
 ## COMPARATOR:
- ![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/14697efc-944a-4aab-be03-d8388f8b9ce6)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/ab00026f-7936-4353-b9e2-847bad0c7bff)
+
 
 ## PROGRAM:
 module comparator(a,b,l,g,e);<br>
@@ -133,7 +139,8 @@ end<br>
 endmodule<br>
 
 ## OUTPUT:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_2/assets/160568654/7f84d544-8124-4fc8-886f-9ebe75d37002)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-2/assets/160568654/263f8572-ecce-421e-a09f-0f252ee44691)
 
 
 ## RESULT:
